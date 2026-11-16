@@ -284,4 +284,20 @@ Made with ❤️ for Smart City Traffic Intelligence
 
 </p>
 
+# 🤝 Contributors
+
+Made with ❤️ for Smart City Traffic Intelligence
+
+### 👩‍💻 Team Member
+
+<a href="https://github.com/ShruteeSingh123">
+  <img src="https://github.com/ShruteeSingh123.png" width="100" alt="Shrutee Singh"/>
+</a>
+
+**[Shrutee Singh](https://github.com/ShruteeSingh123)**
+
+[![GitHub](https://img.shields.io/badge/GitHub-ShruteeSingh123-black?logo=github)](https://github.com/ShruteeSingh123)
+
+---
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
