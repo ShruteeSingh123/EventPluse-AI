@@ -290,13 +290,23 @@ Made with ❤️ for Smart City Traffic Intelligence
 
 ### 👩‍💻 Team Member
 
-<a href="https://github.com/ShruteeSingh123">
-  <img src="https://github.com/ShruteeSingh123.png" width="100" alt="Shrutee Singh"/>
-</a>
+<p align="center">
+  <a href="https://github.com/ShruteeSingh123">
+    <img src="https://github.com/ShruteeSingh123.png" width="100" alt="Shrutee Singh"/>
+  </a>
+</p>
 
-**[Shrutee Singh](https://github.com/ShruteeSingh123)**
-
-[![GitHub](https://img.shields.io/badge/GitHub-ShruteeSingh123-black?logo=github)](https://github.com/ShruteeSingh123)
+<p align="center">
+  <strong>
+    <a href="https://github.com/ShruteeSingh123">Shrutee Singh</a>
+  </strong>
+  <br/>
+  <a href="https://github.com/ShruteeSingh123">
+    <img src="https://img.shields.io/badge/GitHub-ShruteeSingh123-black?logo=github" alt="GitHub"/>
+  </a>
+  <br/>
+  <strong>Contributor</strong>
+</p>
 
 ---
 
